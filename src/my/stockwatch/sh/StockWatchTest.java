@@ -10,8 +10,8 @@ public class StockWatchTest {
 	/**
 	 * @param args
 	 */
+	
 	public static void main(String[] args) {
-		
 		ChinaStockWebServiceSoapProxy sampleChinaStockWebServiceSoapProxyid = new ChinaStockWebServiceSoapProxy();
 		String[] metaInfo = Constants.getMetaInfo();
 //		System.out.println(metaInfo);
